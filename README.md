@@ -27,3 +27,13 @@ Asynchronous Go Explore, i.e. allow workers to be constantly playing and updatin
 Add iterative deepening
 
 Add procedures for experiments to search for good hyperparameters
+
+Add the comb operation - sequentially go to each state encountered in a run that reaches the end of the level
+
+Some early gameplay:
+
+![](Gameplay_3973-242-37-0-0.gif)
+
+A very polished run:
+
+![](Gameplay_1568.gif)
